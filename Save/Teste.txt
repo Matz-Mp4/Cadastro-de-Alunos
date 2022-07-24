@@ -1,0 +1,11 @@
+ra|CC|8.0|Akira|19|
+ra|CC|8.0|Akita|19|
+ra|CC|8.0|BatMAN|19|
+ra|CC|8.0|Bernado|20|
+ra|CC|8.0|Cleiton|19|
+ra|CC|8.0|JUlio|19|
+ra|CC|8.0|Jonas|19|
+ra|CC|8.0|Lucas|20|
+ra|CC|8.0|Luiz|19|
+ra|CC|8.0|Mateus|12|
+ra|CC|8.0|Neo|19|
